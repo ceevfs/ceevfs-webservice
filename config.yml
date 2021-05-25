@@ -1,0 +1,5 @@
+axios:
+  timeout:      7000
+port:         3100
+auth:
+  cipher:       aes-256-cfb
